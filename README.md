@@ -9,7 +9,7 @@ It’s a kind of automagic ;-)
 $InuGami NFTs
 Coming in August 2021, is the official InuGami
 community’s NFT decentralized
-marketplace - $InuGami tokens can be staked (locked) in order to receive exclusive NFT rewards and digital collectibles featured by artists that are themselves part of the KISHU community.
+marketplace - $InuGami tokens can be staked (locked) in order to receive exclusive NFT rewards and digital collectibles featured by artists that are themselves part of the InuGami community.
 Inu Gami will foster participation in regular contests for artists to showcase their work and have the community vote on which should be added to the marketplace.
 Stay Updated
 Website: www.inu-gami.io
